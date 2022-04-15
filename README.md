@@ -32,7 +32,6 @@ Buttons Strcture
 # Requirements
 * Android Studios
 * Java JDK
-
 <br><br>
 
 # License
